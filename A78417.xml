@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Caveat to those that shall resolve, whether right or wrong, to destroy J.L.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78417</idno>
+            <idno type="STC">Wing C1617</idno>
+            <idno type="STC">Thomason E705_21</idno>
+            <idno type="STC">ESTC R207112</idno>
+            <idno type="EEBO-CITATION">99866183</idno>
+            <idno type="PROQUEST">99866183</idno>
+            <idno type="VID">118447</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78417)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118447)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 109:E705[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Caveat to those that shall resolve, whether right or wrong, to destroy J.L.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>J.L. = John Lilburne.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "July 16: 1653".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lilburne, John, 1614?-1657.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:118447:1" rendition="simple:additions"/>
+            <head>A Caveat to thoſe that ſhall reſolve, whe<g ref="char:EOLhyphen"/>ther right or wrong, to deſtroy <hi>J.L.</hi>
+            </head>
+            <opener>
+               <dateline>
+                  <date>
+                     <add>July 16: 1653</add>
+                  </date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>S Touching <hi>J. L.</hi> I ſhall not engage in a Queſtion or Diſpute, whether he hath trangreſſed any true Law, and conſe<g ref="char:EOLhyphen"/>quently for ſuch tranſgreſſion he ought to dye as a Malefactor?</p>
+            <p>But the matter that is inſiſted upon is, <hi>That Right and Juſtice may be admin<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtred, whether he tranſgreſſed or not.</hi>
+            </p>
+            <p>The enormity of Arbitrary judgement is ſufficiently known and felt by many, and it is ſuch an evil in Go<g ref="char:EOLhyphen"/>vernments; that I have that candid opinion of any man that enjoys the natural faculties that God endowed him with, that he cannot in any way ſide with it, or in rea<g ref="char:EOLhyphen"/>ſon produce any arguments for its ſupport: But rather the light of nature and reaſon reſident in all men, will inforce them to declare, that Arbitrary judgement is not fit or expedient to be exerciſed among Heathens more eſpeci<g ref="char:EOLhyphen"/>ally amongſt Common Chriſtians, more eſpecially amongſt thoſe Chriſtians who pretend, and would have the world to know, that they have taſted and known in-dwellings of the Spirit of God; and do alſo will the world to know, that their whole aym is, to ad<g ref="char:EOLhyphen"/>vance the Lord Jeſus and his Goſpel in the earth, againſt all oppoſers: and more eſpecially ſince thoſe Chriſtians have in their Land a known Law, a ſtanding Rule to walk by.</p>
+            <p>The effects of this deadly poyſon (Arbitrary Judge<g ref="char:EOLhyphen"/>ment) hath been drunk deeply by many, who no doubt can declare largely the evil exiſtence and effects thereof.</p>
+            <p>The benefit and vertue of Laws have been known in all ages experimentally; and what need of a Law, if it ſhall not be executed? but inſtead thereof, Arbitrary
+<pb n="2" facs="tcp:118447:2"/>Judgement take place? Did God give a Law to the Iſ<g ref="char:EOLhyphen"/>raelites, to walk at their will? Did ever Iſrael flouriſh better, then when they kept the Law, and inclined there<g ref="char:EOLhyphen"/>to? I doubt not but ſacred Writ declares the contrary. If judgement in Rulers ſhould be Arbitrary, what means thoſe Laws eſtabliſhed in all Countreys of the world? I ſhall not be ſo prolix, as to diſcourſe further of the be<g ref="char:EOLhyphen"/>nefit of a Law, when I am confident a man of judgment and reaſon wil<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not deny it, but freely declare for it</p>
+            <p>As for Arbitrary Judgement, what ſtinketh more in the noſtrils of moſt men then it? nay Engliſh-men, I think have had ſo much thereof, that they deſire to be freed from it in Gods good time; What was the reaſon that the King in his time was ſo much cryed againſt, that Monarchy it ſelf after his death, was for ever extirpate out of this Nation? was it not, becauſe that it was affirm<g ref="char:EOLhyphen"/>ed, that Monarchy and Arbitrary Judgement are inſe<g ref="char:EOLhyphen"/>parable? What was the reaſon that the late Parliament were ſuch a grief unto this Nation, that they ſhould (as no doubt but many did) rejoyce at their diſſolution? was it not becauſe Juſtice and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>udgement was not executed according to the Law, and that they were like Kings (Arbitrary to do what ſeemed good in their own eyes? Did not their Arbitrary proceedings cauſe very many men to complain, like ſlaves in <hi>Egypt?</hi> and did not their dealings cauſe their diſſol<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion as a reward therefore?</p>
+            <p>True it is, the people of this Nation have been long under Arbitrary Governors, and although they have good Laws in their own Land, yet have little benefit thereof: Alas poor people how long have ye wiſhed and expected that your Laws might be executed in purity a<g ref="char:EOLhyphen"/>mongſt you? how many precious men have ſpent, ſome their wits, ſome their purſes and eſtates, ſome their blood, ſome their limbs, ſome their lives, and hazarded all for the
+<pb n="3" facs="tcp:118447:2"/>preſervation of our laws: how long did ye expect after the Kings death, a Reformation of your Laws, and reſtoring of your Liberty: and that upon the hopes ye had of the men in power, who gave ye good cauſe to expect it from them? how many times have ye been apt poſitively to conclude (now ſhall it go well with us, and that God will do great things for his people) and had ye not rea<g ref="char:EOLhyphen"/>ſon ſo to do, ſeeing ye had ſo many fair Proteſtations and Declarations for the ſame? Well, ſeeing ye are not yet arrived to the fruit of your hopes, and ſeeing (like <hi>Tautalus</hi>) ye have Laws, but muſt <hi>nolens volens</hi> ſubmit to Arbitrary proceedings (which is better then to reſiſt—<hi>melius eſt pati</hi>) lift up your hands with your eys un<g ref="char:EOLhyphen"/>to the heavens earneſtly,—praying that God would hear your cry, and in his good time anſwer your de<g ref="char:EOLhyphen"/>ſires.</p>
+            <p>But ſince, through the goodneſs of God, this Na<g ref="char:EOLhyphen"/>tion is in hopes (ſtill) of good towards it; and the ra<g ref="char:EOLhyphen"/>ther, for that their Rulers profeſs the knowledge of the Lord, and to walk like Chriſtians, I am imboldened to lay this one thing before them, that ſince <hi>John L.</hi> is in their cuſtody, and in their power, by a word they may deſtroy him: in the name and fear of the Lord, I put it to them, whether they intend not to deſtroy him right or wrong, and will not give him that liber<g ref="char:EOLhyphen"/>ty, for his defence, as the Law, Equity and Conſci-will allow: Oh, pitty will it be for men profeſſing godlineſs, who have the Law of God to walk by (if none elſe) to be Arbitrary in the ſhedding blood for their own ſiniſter ends.</p>
+            <p>It hath been a practiſe (its true) to hang firſt and judg afterwards, but what reaſon or Chriſtianity it is let all men judge: God forbid that he who hath once known God ſhould conſent to the ſheding of blood, unleſs law<g ref="char:EOLhyphen"/>fully
+<pb n="4" facs="tcp:118447:3"/>condemned; I beſeech them to take into their ſe<g ref="char:EOLhyphen"/>rious conſideration, the words of the Jews, who cry<g ref="char:EOLhyphen"/>ed crucifie him, and let his blood be on us and our Children. Oh, what impreſſion might that take up<g ref="char:EOLhyphen"/>on their hearts, if they did but conſider the hand of God towards that Nation unto this day. If they ſhould out of a malitious intent put J. L. to death unlawfully, and conclude whether right or wrong he ſhall dye; I do not propheſie but let them take heed, that the blood of J. L. will ſtick in their conſciences and be like a worm to gnaw continually: It is my earneſt deſire of God that all Chriſtians may endeavour the peace of a good conſcience, wherewith they may appear before God in comfort.</p>
+            <p>I deſire them to conſider, that if <hi>John L.</hi> be put to death by their authority and procurement, it muſt be either by law or without law.</p>
+            <p>If they give him tryal, lay an accuſation againſt him, and charge him wherein he hath juſtly offended, and if by the law of God and men he is found guilty, and muſt dye for it, then may they keep the peace of their conſcience, and then he is juſtifiably put to death, no man can gainſay it, for it was according to the law: but if any ſhall premeditate his death, and to deſtroy him whether right or wrong, let them look to it, God is a juſt <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>udge, and he repayeth vengeance; it being his prerogative alone, and not left to man to revenge him<g ref="char:EOLhyphen"/>ſelf.</p>
+            <p>But it may be objected that J. L. is ſuch a man that an age produceth not the like, he is never well but when fiſhing in troubled waters; he is a buſie body medling with other mens matters; picking holes where he can finde them, and it is pitty but that he ſhould ſuffer.</p>
+            <p>Anſwer, I ſaid before that I ſhall not ſide with J. L.
+<pb n="5" facs="tcp:118447:3"/>in any error; all men have their failings, and perhaps he may have ſome too; but what then, ſhall he be cut off and deſtroyed wright or wrong, God forbid; what was the law made for, was it not to puniſh offenders when they broke the law? Doth not the law pre<g ref="char:EOLhyphen"/>ſcribe puniſhments for the offence? If <hi>J. L.</hi> hath offend<g ref="char:EOLhyphen"/>ded the Law, let him be tryed by the Law, and not by Arbitrary Judgment.</p>
+            <p>Since we profeſs our ſelves to be Chriſtians, let us but look on other men, what they have done in the like cauſes; let us but obſerve the words of <hi>Nicodemus</hi> in <hi>John</hi> 7.51. <hi>doth our Law judge any man before it hear him, and know what he hath done?</hi> By which words of his, one may ſoon conclude, that no man was put to death by their law before the party accuſed was produced, and his fact made known and tryed according to their law: do not we pretend to be men that have had more of the ſaving light of the Goſpel then ever they had? and to profeſs the true Chriſtian Religion in power and effi<g ref="char:EOLhyphen"/>cacy? And ſhall they forbear to deſtroy a man till he is condemned by the Law? And ſhall we condemn a man without law? And if by law, it is a queſtion, whe<g ref="char:EOLhyphen"/>ther upon tryal it will hold to be a true law, or whethe-that law was grounded in any reaſon equity or conſcir ence; but onely the arbitrary wills and pleaſures of the makers thereof; and if it be ſo found that that Law by which he ſtands liable, appear to be grounded on no<g ref="char:EOLhyphen"/>thing elſe but arbitrary will, and of ſet malice to deſtroy him one way or other; What aſſurance hath any man of his life or eſtate? What benefit have we of our Laws?</p>
+            <p>Although that law be made againſt him out of ma<g ref="char:EOLhyphen"/>lice, and if he be inſnared and endangered, by reaſon thereof (although he might have loſt his life anothe
+<pb n="6" facs="tcp:118447:4"/>way by continuing in his baniſhment, and ſo eſcaped the danger of this Law? why ſhall he now upon his return deſiring to live peaceably in his own Coun<g ref="char:EOLhyphen"/>try, and to inhabit with his wife and children, ſhall he now die? doth he not declare with <hi>Paul,</hi> that if he hath done any thing worthy of death, he refu<g ref="char:EOLhyphen"/>ſeth not to die, and to lay down his life in ſatisfacti<g ref="char:EOLhyphen"/>on of ſuch Law he tranſgreſſed.</p>
+            <p>Is it not more reaſon he ſhould be ſpared alive, be<g ref="char:EOLhyphen"/>ing of neceſſity driven to do what he hath done, in returning into his own native Country? Had he not Samaritans for his example? who ſaid if they went into the Hoſt of the Aſſirians they could but die. Was it not his caſe? he could but die in his baniſh<g ref="char:EOLhyphen"/>ment; as no doubt but his death was intended, as him<g ref="char:EOLhyphen"/>ſelf declares. And he knew he could but die if he did return, by reaſon of that Act made againſt him. Now he had more reaſon for his returning home, then his abiding there. What might induce his ſtay there? was it perpetual fear of death? or want of thoſe things fitting for his being and lively hood? or the deprive<g ref="char:EOLhyphen"/>ment of his friends? Might not another in his caſe be induced rather to do as he hath done then other<g ref="char:EOLhyphen"/>wiſe? conſidering that he hoped he ſhould find mercy at the hands of thoſe in power, and that they would put on bowels of compaſſion to conſider his condi<g ref="char:EOLhyphen"/>tion. And was not this hope furthered upon the conſi<g ref="char:EOLhyphen"/>deration that thoſe that made that Act were pluckt up by the root as uſeleſs inſtruments: corrupt ones rather. And would he, or any one elſe think that thoſe that plucked them up for their corruption, will be ſo corrupt themſelves as to put him to death by their corrupt Laws?</p>
+            <pb n="7" facs="tcp:118447:4"/>
+            <p> And to kill a man when he comes and ſeeks for mercy, Is it otherwiſe then to kill a man when he is down? What Example can any man produce to put him to death in this kind? Is <hi>Davids</hi> ſparing the life of <hi>Saul</hi> twice, when he had an opportunity to flay him, and had or might pretend reaſon ſo to do be<g ref="char:EOLhyphen"/>cauſ <hi>Saul</hi> ſought his life; which I could never hear that <hi>John Lilburn</hi> was ſo eager after the bloud of any of his perſecutors. May that be any example to take away his life, or ſhew him mercy? I leave them to judge? Or whether <hi>David</hi> (having reaſon to put <hi>Ab<g ref="char:EOLhyphen"/>ſalom</hi> to death for murthering of his brother <hi>Ammon,</hi> and by reaſon ther<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xiled himſelf) ſhewing mer<g ref="char:EOLhyphen"/>cy to <hi>Abſalom</hi> in forgiving his offence, and calling him from exile; whether or no that be not a good example to ſhew mercy to <hi>John Lilburn</hi> in his conditi<g ref="char:EOLhyphen"/>on? whoſe caſe as (under favour) I ſuppoſe, is not ſo criminal. Wherefore I ſhall once more make known my deſire, That Arbitrary Judgement may not take place; but that Juſtice and righteous Judge<g ref="char:EOLhyphen"/>ment might be executed, preferring mercy before cruelty.</p>
+            <p>And this I believe, That if they extend any mercy to <hi>Iohn Lilburn,</hi> not only he, but many others will re<g ref="char:EOLhyphen"/>turn them thanks therefore, and ever remain ſenſi<g ref="char:EOLhyphen"/>ble thereof: but if they ſhall abſolutely reſolve to put him to death, and to have the Law ſpeak accor<g ref="char:EOLhyphen"/>ding to their minds, and by that means make the Law a cloke for their ſhedding of bloud without any juſt cauſe in reaſon, equity, or conſcience. 'Tis true, they may do it; but if they do, then let them beware &amp; conſider that <hi>Abels</hi> bloud cry<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d from the ground <hi>Uri<g ref="char:EOLhyphen"/>ah's</hi> bloud coſt <hi>David</hi> repentance. And theſe frequent Scriptures forbid the ſhedding of innocent bloud, and the heavy and grievous puniſhments that have
+<pb n="8" facs="tcp:118447:5"/>attended murderers; and that God may one day make inquiſition for bloud at their hands. I could wiſh that they would put on <hi>Ioſephs</hi> reſolution: <hi>How can I do this wickedneſs and ſin againſt God?</hi> Unto all ſuch as ſhall complot his death abſolutely, I ſay unto them again, Beware that the Lord doth not render them according to their deſerts.</p>
+            <p>And as for <hi>Iohn Lilburn,</hi> if he die by the Law, then may all men be ſatisfied in his death: but if ſtrength ſhall deſtroy him, as <hi>Ioan</hi> did <hi>Abner,</hi> then may I uſe thoſe words of <hi>David,</hi> 2 <hi>Sam.</hi> 3.33, 34. <hi>Dyed</hi> Abner <hi>as a fool dyeth? Thine hands were not bound, nor thy feet tyed in Fetters of Braſs; but as a man falleth before wicked men, ſo did'ſt thou fall.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
